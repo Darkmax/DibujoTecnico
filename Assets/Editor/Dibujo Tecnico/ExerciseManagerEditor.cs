@@ -21,7 +21,7 @@ public class ExerciseManagerEditor : Editor {
         //DrawDefaultInspector();
         myScript.title = EditorGUILayout.TextField("Title:", myScript.title);
         EditorGUILayout.PropertyField(m_list, new GUIContent("Exercises:"), true);
-        //m_Object.ApplyModifiedProperties();
+        m_Object.ApplyModifiedProperties();
         // Flag Unity to save the changes to to the prefab to disk
         if (GUI.changed)
             EditorUtility.SetDirty(target);
