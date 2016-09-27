@@ -1,0 +1,25 @@
+﻿KEY,en,es
+login,Login,Iniciar Sesion
+user,User,Usuario
+password,Password,Contraseña
+login_status,User or Password wrong,Usuario o Contraseña incorrecta.
+menu_home,HOME,INICIO
+menu_chapters,CHAPTERS,CAPITULOS
+menu_favorites,FAVORITES,FAVORITOS
+menu_statics,STATISTICS,ESTADISTICAS
+menu_help,HELP,AYUDA
+menu_exit,EXIT,SALIR
+mainTitle,Technical Drawing,Dibujo Tecnico
+lblUser,Welcome ,Bienvenido 
+btnStartEx,Start,Iniciar
+btnContinueEx,Continue with Exercises,Continuar con Ejercicios
+chaptersTitle,Chapters,Capitulos
+favoritesTitle,Favorites,Favoritos
+statsTitle,Stats,Estadisticas
+helpTitle,Help,Ayuda
+result_title,Result,Resultado
+result_content_right,You got it right.,Lo hiciste bien
+result_content_wrong,"Uh oh, you are wrong, try it again.","No esta bien, ¿Quieres intentarlo otra vez?"
+result_btn_next,Next,Siguiente
+result_btn_again,Try again,Otra vez
+result_btn_exit,Exit,Salir
