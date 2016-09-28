@@ -3367,9 +3367,12 @@ MonoBehaviour:
   instructions: {fileID: 192400}
   toggleAR: {fileID: 11418244}
   toggleFavorite: {fileID: 11401428}
+  gridExercise: {fileID: 0}
+  prefabNumExcercise: {fileID: 0}
   exerciseList:
   - {fileID: 118192, guid: 981b39ad644528341a97f3d3972dfcac, type: 2}
   - {fileID: 176314, guid: 496b03711d9df394198ebfc7ca18a6fe, type: 2}
+  - {fileID: 1000014232456404, guid: e40e62008658f2b4fa4e077bf97a8581, type: 2}
   resultWindow: {fileID: 11412564}
 --- !u!114 &11450748
 MonoBehaviour:
