@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 974fd0213ff64664d946404696ae7e37
-timeCreated: 1475014253
+guid: 42c3fed853bf5224a8c6a41a679890c7
+timeCreated: 1475103236
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Barhi_1_igs
+    100002: Apoyo_guia_igs
     100004: CINEMA_4D_Editor
     100006: Level_1
     400000: //RootNode
-    400002: Barhi_1_igs
+    400002: Apoyo_guia_igs
     400004: CINEMA_4D_Editor
     400006: Level_1
     2300000: Level_1
@@ -41,7 +41,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

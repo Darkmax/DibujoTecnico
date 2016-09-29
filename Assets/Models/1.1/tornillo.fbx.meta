@@ -1,18 +1,18 @@
 fileFormatVersion: 2
-guid: 974fd0213ff64664d946404696ae7e37
-timeCreated: 1475014253
+guid: ba9d9d07211a9f542b1431a5172e49d0
+timeCreated: 1475103236
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Barhi_1_igs
-    100004: CINEMA_4D_Editor
-    100006: Level_1
-    400000: //RootNode
-    400002: Barhi_1_igs
-    400004: CINEMA_4D_Editor
-    400006: Level_1
+    100000: CINEMA_4D_Editor
+    100002: Level_1
+    100004: //RootNode
+    100006: tornillo_igs
+    400000: CINEMA_4D_Editor
+    400002: Level_1
+    400004: //RootNode
+    400006: tornillo_igs
     2300000: Level_1
     3300000: Level_1
     4300000: Level_1
@@ -41,7 +41,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
