@@ -767,7 +767,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &193722
 GameObject:
   m_ObjectHideFlags: 1
@@ -877,7 +877,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 170614}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1285, y: 0, z: 0}
+  m_LocalPosition: {x: -944, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -1184,7 +1184,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146368}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1103, y: 4, z: 0}
+  m_LocalPosition: {x: 762, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
@@ -1292,7 +1292,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 164934}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1257, y: 4, z: 0}
+  m_LocalPosition: {x: 916, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
@@ -1424,7 +1424,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 104092}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1258, y: -157, z: 0}
+  m_LocalPosition: {x: 916, y: -157, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -2304,7 +2304,7 @@ MonoBehaviour:
   anchorOffset: 0
   softBorderPadding: 1
   renderQueue: 0
-  startingRenderQueue: 3010
+  startingRenderQueue: 3006
   mClipTexture: {fileID: 0}
   mAlpha: 1
   mClipping: 0
@@ -2861,13 +2861,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 2137
+  mWidth: 1454
   mHeight: 100
   mDepth: 12
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 21.38
+  aspectRatio: 14.54
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 11439740, guid: c851ae8f93c7f5e47a6f9947b10dda04, type: 2}
@@ -3156,7 +3156,7 @@ MonoBehaviour:
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.7786459
+  aspectRatio: 1.7779948
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -3373,6 +3373,11 @@ MonoBehaviour:
   - {fileID: 118192, guid: 981b39ad644528341a97f3d3972dfcac, type: 2}
   - {fileID: 176314, guid: 496b03711d9df394198ebfc7ca18a6fe, type: 2}
   - {fileID: 1000014232456404, guid: e40e62008658f2b4fa4e077bf97a8581, type: 2}
+  - {fileID: 1000013609553798, guid: 969b8db0735419348996280736cee3de, type: 2}
+  - {fileID: 1000011380949820, guid: f688eef74126e5d44998ec92fcace39f, type: 2}
+  - {fileID: 1000011921564438, guid: 43bc785e762d5e84685675b9db798c86, type: 2}
+  - {fileID: 1000011296889884, guid: c637b079d8fd17545a5dfe12baba054b, type: 2}
+  - {fileID: 1000011885002800, guid: 1bccf81780644ea44ab24a97a26133d3, type: 2}
   resultWindow: {fileID: 11412564}
 --- !u!114 &11450748
 MonoBehaviour:
@@ -4241,13 +4246,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 1
-  mWidth: 2743
+  mWidth: 2060
   mHeight: 30
   mDepth: 0
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 91.46667
+  aspectRatio: 68.666664
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
