@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-30 11:52:07" name="iso3" targetId="debdf2f6a22f49078c1b1ab998ce2974" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-30 11:45:43" name="iso2" targetId="a61d98bf455b47aa87c030e37ecbc9e1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-30 11:39:56" name="iso1" targetId="d16755e7c50649f2be80982ffee5e766" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 16:27:51" name="iso9" targetId="cabaa5e66f064a4ab7dd4ac55b4c7e8e" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 16:24:45" name="iso8" targetId="e774b511f98a42dc902559ce8cb36bd1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 16:20:13" name="iso7" targetId="bdc1b4947643430bbcf6080bd1436b31" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 14:29:44" name="iso5" targetId="b656b9ca029f4ab1b77b3c6d9b04fe8c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 13:11:08" name="iso6" targetId="8a97455ebf5b4642a8e7e814c89e627d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-29 11:48:43" name="encendedor" targetId="338b62884f8b499e99809fd27a2e07e8" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-28 12:14:01" name="prueba" targetId="99ee7521148f43cab8a6b380c24b6c87" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-09-28 15:21:39" name="teclado" targetId="8c129f5a81af4b8e8cffe1bcacf58dee" version="2.0" />
+  </TargetSet>
+</QCARInfo>

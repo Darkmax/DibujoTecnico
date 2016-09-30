@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="iso3" />
+    <ObjectTarget name="iso2" />
+    <ObjectTarget name="iso1" />
+    <ObjectTarget name="iso9" />
+    <ObjectTarget name="iso8" />
+    <ObjectTarget name="iso7" />
+    <ObjectTarget name="iso5" />
+    <ObjectTarget name="iso6" />
+    <ObjectTarget name="encendedor" />
+    <ObjectTarget name="prueba" />
+    <ObjectTarget name="teclado" />
+  </Tracking>
+</QCARConfig>
