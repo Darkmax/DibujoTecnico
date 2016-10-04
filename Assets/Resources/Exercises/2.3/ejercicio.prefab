@@ -4680,10 +4680,15 @@ MonoBehaviour:
   instructions: {fileID: 175620}
   toggleAR: {fileID: 11487034}
   toggleFavorite: {fileID: 11466186}
+  gridExercise: {fileID: 0}
+  prefabNumExcercise: {fileID: 0}
   exerciseList:
   - {fileID: 166836, guid: 3b9b3beefcb08974ba5349f10aed75d5, type: 2}
   - {fileID: 171726, guid: 9fb7b56b776b2f14d9683dcdce3d5970, type: 2}
   - {fileID: 159338, guid: 67d8f161b14cc9b47a7751aa3c74a7e4, type: 2}
+  - {fileID: 1000010638732876, guid: 7d7ba42436ab3c34b98fef063cea1269, type: 2}
+  - {fileID: 1000010955644110, guid: 298ff61d99860ec4e9b7419b252f3e65, type: 2}
+  - {fileID: 1000014032079920, guid: 3564b5ac563f2564cba59e6d76a58c5c, type: 2}
   resultWindow: {fileID: 11423032}
 --- !u!114 &11498554
 MonoBehaviour:
