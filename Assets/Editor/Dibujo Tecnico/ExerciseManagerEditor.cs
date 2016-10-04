@@ -18,7 +18,7 @@ public class ExerciseManagerEditor : Editor {
 
     public override void OnInspectorGUI()
     {
-        //DrawDefaultInspector();
+        DrawDefaultInspector();
         myScript.title = EditorGUILayout.TextField("Title:", myScript.title);
         EditorGUILayout.PropertyField(m_list, new GUIContent("Exercises:"), true);
         m_Object.ApplyModifiedProperties();
